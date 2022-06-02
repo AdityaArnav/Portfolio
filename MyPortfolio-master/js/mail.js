@@ -8,7 +8,7 @@ function SendMSG(e) {
       
   let temp = {
     from_name : nam_txt.value,
-    to_name : "Durga Bhavani",
+    to_name : "Aditya Arnav",
     message : body
   }
   
