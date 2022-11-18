@@ -1,8 +1,8 @@
 const Projects = [
     {
         name : "Clone of MaxFashion.com",
-        about : "Max Fashion is an indian ecommerce website mainly deals in clothing items.",
-        img : "https://cdn-images-1.medium.com/max/1000/1*zCAZ3N6z-uvsrD54ujAk8A.png",
+        about : "Max Fashion is an indian ecommerce website mainly deals in clothing items. Max offers also apparel, footwear and accessories for the entire family - women, men and children.",
+        img : "https://miro.medium.com/max/1100/1*AqMEk5JbgnjwB5_28Njr1Q.png",
         gitrepo : "https://github.com/kakashi10-23/Max-clone",
         tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux",
         tech_stackicons : [
@@ -12,7 +12,26 @@ const Projects = [
             `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
             
         ],
-        project_link : "https://leafy-sorbet-dccc4d.netlify.app/",
+        project_link : "https://famous-stroopwafel-a60316.netlify.app/",
+        project_type : "Team Project"
+    },
+    {
+        name : "Clone of Lumen5.com",
+        about : "Clone of Lumen5 website which is an online video editing website which is powered by A.I. The webiste has Authentication feature and have personal user dashboard as well.",
+        img : "https://cdn-images-1.medium.com/max/1000/1*yd2t3tIjRtA2G33puj1pBA.png",
+        gitrepo : "https://github.com/dishant-rana/lumen5",
+        tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux | Node.js | Express | MongoDB",
+        tech_stackicons : [
+            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
+            `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
+            `<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/mongodb.png"/>`,
+            `<img src="https://img.icons8.com/color/48/000000/express.png"/>`,
+            
+        ],
+        project_link : "https://exquisite-alfajores-dd1295.netlify.app/",
         project_type : "Team Project"
     },
     {
